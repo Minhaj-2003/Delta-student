@@ -1,2 +1,2 @@
 # Delta-student
-this is demo for git &amp; GitHub
+this is demo for git &amp; GitHub.
